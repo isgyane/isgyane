@@ -23,17 +23,20 @@ I'm a **Pharmacist** and **Data Analyst** with a passion for leveraging data to 
 - **Pharmacy & Healthcare:** Medication therapy management, patient counseling, GMP processes
 - **IT & Tools:** CRM systems, IT support, eCommerce, ERP systems
 
+
 ## 🌱 Currently Learning
 
 - Advanced Data Science techniques
 - Deepening my understanding of Machine Learning and AI applications in healthcare
 - Improving my public speaking and presentation skills
 
+
 ## 🏆 Recent Achievements
 
 - Developed a comprehensive sales analytics tracker that increased sales by 30% in H1 2024
 - Built a Power BI dashboard to visualize and communicate insights from over 3 million data points at Zipline
 - Enhanced supply chain efficiency, reducing Order-to-Delivery time by 50% at Erith Health Services
+
 
 ## 📫 Let's Connect!
 
@@ -56,6 +59,7 @@ I'm a **Pharmacist** and **Data Analyst** with a passion for leveraging data to 
 I'm always looking for new challenges and opportunities, especially in the fields of data science, supply chain management, and healthcare innovation. If you have a project or role that you'd like to discuss, feel free to reach out!
 
 ---
+
 
 ## 🎨 Fun Facts
 
