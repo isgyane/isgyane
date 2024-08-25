@@ -1,4 +1,5 @@
 #👨‍💻 Isaac Somuah
+
 **`Data Science | Business Analytics | Pharmaceutical Supply Chain Expert | Content Creator`**
 
 I'm a **Pharmacist** and **Data Analyst** with a passion for leveraging data to solve healthcare challenges. I bring extensive experience in pharmaceutical supply chain management, data analytics, and IT solutions. I'm also a content creator, and Excel instructor! I post content about data and IT solutions to YouTube and Tiktok.
