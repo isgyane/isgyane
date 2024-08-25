@@ -36,6 +36,8 @@ I'm a **Pharmacist** and **Data Analyst** with a passion for leveraging data to 
 
 <br/>
 
+#
+
 ## 🚀 Skills & Expertise
 
 - **Data Analytics:** Python, R, SQL, Power BI, Excel
