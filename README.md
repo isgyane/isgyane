@@ -49,7 +49,19 @@ I'm a **Pharmacist** and **Data Analyst** with a passion for leveraging data to 
 <br/>
 <br/>
 
-[![Isaac's GitHub stats](https://github-readme-stats.vercel.app/api?username=isgyane)](https://github.com/isgyane/github-readme-stats&show_icons=true)
+<p align="center">
+    <img alt="my_stats" src="https://github-readme-stats.vercel.app/api?username=isgyane&show_icons=true&theme=radical" width="45%" style="margin-right: 5%;"/>
+    <img alt="top_langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isgyane&layout=compact" width="45%" style="margin-left: 5%;"/>
+</p>
+
+
+
+
+
+<br/>
+<br/>
+
+---
 
 ## 🌱 Currently Learning
 
