@@ -1,4 +1,4 @@
-#👨‍💻 Isaac Somuah
+# 👨‍💻 Isaac Somuah
 
 **`Data Science | Business Analytics | Pharmaceutical Supply Chain Expert | Content Creator`**
 
