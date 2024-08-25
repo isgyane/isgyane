@@ -48,6 +48,7 @@ I'm a **Pharmacist** and **Data Analyst** with a passion for leveraging data to 
 
 <br/>
 <br/>
+
 [![Isaac's GitHub stats](https://github-readme-stats.vercel.app/api?username=isgyane)](https://github.com/isgyane/github-readme-stats)
 
 ## 🌱 Currently Learning
