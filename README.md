@@ -44,11 +44,6 @@ I'm a **Pharmacist** and **Data Analyst** with a passion for leveraging data to 
 - Enhanced supply chain efficiency, reducing Order-to-Delivery time by 50% at Erith Health Services
 
 
-## 📫 Let's Connect!
-
-
-
-
 ## 💼 Open to Opportunities
 
 I'm always looking for new challenges and opportunities, especially in the fields of data science, supply chain management, and healthcare innovation. If you have a project or role that you'd like to discuss, feel free to reach out!
