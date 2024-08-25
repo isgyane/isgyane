@@ -20,7 +20,6 @@ I'm a **Pharmacist** and **Data Analyst** with a passion for leveraging data to 
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
 </a>
 
-<br />
 
 ## Languages & Tools
 
@@ -35,7 +34,7 @@ I'm a **Pharmacist** and **Data Analyst** with a passion for leveraging data to 
 <img align="left" alt="SQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
 <img align="left" alt="SQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-original.svg" />
 
----
+<br/>
 
 ## 🚀 Skills & Expertise
 
