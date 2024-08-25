@@ -17,6 +17,7 @@ I'm a **Pharmacist** and **Data Analyst** with a passion for leveraging data to 
    <a href="https://www.instagram.com/isgyane/" target="_blank">
       <img alt="Instagram" title="Follow me on Instagram" src="https://custom-icon-badges.demolab.com/badge/-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=C13584"/></a>
 </p>
+
 ---
 
 ## 🚀 Skills & Expertise
@@ -68,4 +69,3 @@ I'm always looking for new challenges and opportunities, especially in the field
 
 - I love playing the piano 🎹 and video games 🎮 in my free time.
 
--->
