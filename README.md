@@ -20,7 +20,7 @@ I'm a **Pharmacist** and **Data Analyst** with a passion for leveraging data to 
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
 </a>
 
----
+<br />
 
 ## Languages & Tools
 
