@@ -35,8 +35,9 @@ I'm a **Pharmacist** and **Data Analyst** with a passion for leveraging data to 
 <img align="left" alt="SQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-original.svg" />
 
 <br/>
+<br/>
 
-#
+
 
 ## 🚀 Skills & Expertise
 
