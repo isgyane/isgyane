@@ -5,13 +5,13 @@
 I'm a **Pharmacist** and **Data Analyst** with a passion for leveraging data to solve healthcare challenges. I bring extensive experience in pharmaceutical supply chain management, data analytics, and IT solutions. I'm also a content creator, and Excel instructor! I post content about data and IT solutions to YouTube and Tiktok.
 
 <p align="left">
-   <a href="https://www.linkedin.com/in/isaacsomuah">
+   <a href="https://www.linkedin.com/in/isaacsomuah" target="_blank">
       <img alt="LinkedIn" title="Connect with me on LinkedIn" src="https://custom-icon-badges.demolab.com/badge/-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2"/></a>
-   <a href="https://www.youtube.com/@isaacsomuah?sub_confirmation=1">
+   <a href="https://www.youtube.com/@isaacsomuah?sub_confirmation=1" target="_blank">
       <img alt="YouTube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC2WHjPDvbE6O328n17ZGcfg?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
-   <a href="https://www.tiktok.com/@isgyane">
+   <a href="https://www.tiktok.com/@isgyane" target="_blank">
       <img alt="TikTok" title="Follow me on TikTok" src="https://custom-icon-badges.demolab.com/badge/-Follow-red?style=for-the-badge&logo=tiktok&logoColor=white&labelColor=EE1D52"/></a> 
-   <a href="https://www.instagram.com/isgyane/">
+   <a href="https://www.instagram.com/isgyane/" target="_blank">
       <img alt="Instagram" title="Follow me on Instagram" src="https://custom-icon-badges.demolab.com/badge/-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=C13584"/></a>
 </p>
 ---
