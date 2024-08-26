@@ -41,9 +41,8 @@ I'm a **Pharmacist** and **Data Analyst** with a passion for leveraging data to 
 
 ## 🚀 Skills & Expertise
 
-- **Data Analytics:** Python, R, SQL, Power BI, Excel
-- **Supply Chain Management:** Inventory optimization, Order-to-Delivery time reduction, ERP systems
-- **Pharmacy & Healthcare:** Medication therapy management, patient counseling, GMP processes
+- **Data Analytics:** Data Analysis, Power BI, Tableau, Excel, SQL, Python, R, Data Visualization, Statistical Analysis and Modelling
+- **Data Engineering:** ETL Processes, Machine Learning
 - **IT & Tools:** CRM systems, IT support, eCommerce, ERP systems
 
 <br/>
