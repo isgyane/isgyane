@@ -1,8 +1,9 @@
-# 👨‍💻 Isaac Somuah
+# 👋 Hi there
 
 **`Data Science | Business Analytics | Pharmaceutical Supply Chain Expert | Content Creator`**
 
-I'm a **Pharmacist** and **Data Analyst** with a passion for leveraging data to solve healthcare challenges. I bring extensive experience in pharmaceutical supply chain management, data analytics, and IT solutions. I'm also a content creator, and Excel instructor! I post content about data and IT solutions to YouTube and Tiktok.
+My name is Isaac Somuah, a pharmacist and data analyst interested in data for solving supply chain and healthcare challenges. 
+I post content about data and IT solutions on YouTube and Tiktok - I want to make your life easier 😊.
 
 <a href="https://www.linkedin.com/in/isaacsomuah" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -64,21 +65,19 @@ I'm a **Pharmacist** and **Data Analyst** with a passion for leveraging data to 
 
 ## 🌱 Currently Learning
 
-- Advanced Data Science techniques
-- Deepening my understanding of Machine Learning and AI applications in healthcare
-- Improving my public speaking and presentation skills
+- Supply Chain Analytics
+- Machine Learning and AI applications in healthcare
 
 
-## 🏆 Recent Achievements
 
-- Developed a comprehensive sales analytics tracker that increased sales by 30% in H1 2024
-- Built a Power BI dashboard to visualize and communicate insights from over 3 million data points at Zipline
-- Enhanced supply chain efficiency, reducing Order-to-Delivery time by 50% at Erith Health Services
+## 💼 Let's work together
 
+I'm always looking for new challenges and opportunities, especially in the fields of 
+- `data science`
+-  `supply chain management`
+-  `healthcare innovation`
 
-## 💼 Open to Opportunities
-
-I'm always looking for new challenges and opportunities, especially in the fields of data science, supply chain management, and healthcare innovation. If you have a project or role that you'd like to discuss, feel free to reach out!
+If you have a project or role that you'd like to discuss, feel free to reach out!
 
 ---
 
