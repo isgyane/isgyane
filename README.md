@@ -5,6 +5,11 @@
 My name is Isaac Somuah, a pharmacist and data analyst interested in data for solving supply chain and healthcare challenges. 
 I post content about data and IT solutions on YouTube and Tiktok - I want to make your life easier 😊.
 
+[View Repositories](https://github.com/isgyane?tab=repositories) 🔗👨‍💻
+
+<br/>
+
+
 <a href="https://www.linkedin.com/in/isaacsomuah" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
